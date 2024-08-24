@@ -33,7 +33,7 @@
         
         <h2 class="section-title">How Does This Work?</h2>
         <p class="content">
-          I'm Muhammad Zaki and this is my unicorn web site. I'm DevOps Engineer very soon.  In today's fast paced world, you've got places you need to be but not enough time in your jam packed schedule. Wouldn't it be nice if there were a transportation service that changed the way you get around daily? Introducing Wild Rydes, an innovative transportation service that helps people get to their destination faster and hassle-free. Getting started is as easy as tapping a button in our app.
+          I'm Muhammad Zaki and this is my unicorn web site. I'm DevOps Engineer very soon (In Sha Allah).  In today's fast paced world, you've got places you need to be but not enough time in your jam packed schedule. Wouldn't it be nice if there were a transportation service that changed the way you get around daily? Introducing Wild Rydes, an innovative transportation service that helps people get to their destination faster and hassle-free. Getting started is as easy as tapping a button in our app.
         </p>
         <h2 class="section-title">Our Story</h2>
       <p class="content">
